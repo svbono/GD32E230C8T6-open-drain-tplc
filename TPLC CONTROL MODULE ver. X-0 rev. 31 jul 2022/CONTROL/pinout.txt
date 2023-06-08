@@ -1,0 +1,58 @@
+1	3.3V	C		WEST
+2	LED		A
+3	OSC0	D
+4	OSC1	D
+5	OSC2	D
+6	OSC3	D
+7	NRST	B/D
+8	0V		C
+9	3.3V	C
+10	I0		B
+11	I1		B
+12	I2		B
+
+13	I3		B		SOUTH
+14	I4		B
+15	I5		B
+16	I6		B
+17	I7		B
+18	PWM4	A
+19	PWM5	A
+20	SHF		A
+21	SER4	A
+22	SER5	A
+23	0V		C
+24	3.3V	C
+
+25	SER6	A		EAST
+26	SER7	A
+27	PWM8	A
+28	PWM9	A
+29	PWM0	A
+30	PWM1	A
+31	PWM2	A
+32	PWM3	A
+33	SLT0	B
+34	SLT1	B
+35	SER8	A
+36	SER9	A
+
+37	SLT2	B		NORTH
+38	SLT3	B
+39	STR		A
+40	PWM6	A
+41	PWM7	A
+42	SER0	A
+43	SER1	A
+44	BOOT	B/D
+45	SER2	A
+46	SER3	A
+47	0V		C
+48	3.3V	C
+
+
+A = 3.3V to level shift
+B = direct input/output
+C = power
+D = connects to west section circuit
+
